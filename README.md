@@ -1,6 +1,4 @@
-Here’s a **recommended GitHub README structure** for your cricket dashboard (based on the Power BI screenshot featuring Virat Kohli’s performance stats):
 
----
 
 # 🏏 King Kohli Cricket Dashboard
 
@@ -82,7 +80,11 @@ To provide a comprehensive and interactive visualization of Virat Kohli’s care
 
 ![King Kohli Dashboard](https://github.com/prathameshsalke/King-Kohli-Cricket-Dashboard/blob/main/King%20Kohli%20Cricket%20Dashboard.png )
 
-> *(Replace with your actual image path or GitHub asset link)*
+## video
+🎥 **Watch Demo**:  
+[▶️ King Kohli Cricket Dashboard Video](https://github.com/prathameshsalke/King-Kohli-Cricket-Dashboard/blob/main/King%20Kohli%20Cricket%20Dashboard.mp4?raw=true)
+
+
 
 ---
 
